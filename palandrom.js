@@ -1,4 +1,4 @@
-let N=6
+let N=6;
 let str="nurpul"
 let str1;
 let str2;
