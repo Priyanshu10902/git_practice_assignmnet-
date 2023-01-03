@@ -1,4 +1,4 @@
-let N=5
+let N=5;
 let flag=true;
 for(let i=2; i<N; i++){
     if(i%N==0){
